@@ -9,3 +9,9 @@ ESTO ES UN LENGUAJE QUE SE LLAMA MARK DOWN
 ```JavaScript
 console.log('hello world!');
 ```
+
+````PHP
+foreach ($array as $var) {
+    printf($var);
+}
+```
