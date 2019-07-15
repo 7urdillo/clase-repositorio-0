@@ -10,8 +10,10 @@ ESTO ES UN LENGUAJE QUE SE LLAMA MARK DOWN
 console.log('hello world!');
 ```
 
-````PHP
+```PHP
 foreach ($array as $var) {
     printf($var);
 }
 ```
+
+hecho por 7urdillo(sh)
